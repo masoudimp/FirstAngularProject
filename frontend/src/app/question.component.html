@@ -1,0 +1,38 @@
+
+<br />
+<div class="example-button-container">
+  <button mat-fab color="warn" aria-label="Example icon button with a home icon">
+    <a [routerLink]="'/home'" style="color: white"><mat-icon>home</mat-icon></a>
+  </button>
+  <br/><br/>
+
+<mat-card style="padding: 10px;">
+
+  <div layout-align="center center" ><img src="../assets/img/question.jpg" style="width: 35%;"></div>
+
+  <form>
+    <mat-form-field style="width: 81%;">
+      <input [(ngModel)] = "text.question" name="question" autocomplete="off" matInput placeholder="Question" />
+    </mat-form-field>
+    <br/>
+    <mat-form-field class="halfWidth marginOption">
+      <input [(ngModel)] = "text.correctAnswer" name="correctAnswer" autocomplete="off" matInput placeholder="Correct Answer" />
+    </mat-form-field>
+    <mat-form-field class="halfWidth marginOption">
+      <input [(ngModel)] = "text.option1" name="option1" autocomplete="off" matInput placeholder="option 1" />
+    </mat-form-field>
+    <mat-form-field class="halfWidth marginOption">
+      <input [(ngModel)] = "text.option2" name="option2" autocomplete="off" matInput placeholder="option 2" />
+    </mat-form-field>
+    <mat-form-field class="halfWidth marginOption">
+      <input [(ngModel)] = "text.option3" name="option3" autocomplete="off" matInput placeholder="option 3" />
+    </mat-form-field>
+      <br/>
+      <div>
+        <button (click)="Post(text)" mat-raised-button color="primary">Post</button>
+      </div>
+  </form>
+  <section>
+
+  </section>
+</mat-card>

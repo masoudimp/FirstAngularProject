@@ -1,0 +1,19 @@
+
+<mat-drawer-container class="example-container" autosize style="background-color: white !important">
+  <mat-drawer #drawer class="example-sidenav" mode="side">
+    <button (click)="showFiller = !showFiller" mat-raised-button>
+      <a [routerLink]="'/question'">To post a new question</a>
+    </button>
+    <br/><br/>
+    <button (click)="showFiller = !showFiller" mat-raised-button style="width: 100%;">
+      <a [routerLink]="'/questions'">To the questions</a>
+    </button>
+  </mat-drawer>
+
+  <div class="example-sidenav-content">
+    <button type="button" mat-button (click)="drawer.toggle()">
+      <img src="../assets/img/click.jpg" width="30%">
+    </button>
+  </div>
+
+</mat-drawer-container>

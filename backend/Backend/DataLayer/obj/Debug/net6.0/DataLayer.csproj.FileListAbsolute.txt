@@ -1,0 +1,14 @@
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\bin\Debug\net6.0\DataLayer.runtimeconfig.json
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\bin\Debug\net6.0\ref\DataLayer.dll
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\obj\Debug\net6.0\DataLayer.dll
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+C:\Apps\PublicInformationGame\PublicInformationGame\backend\Backend\DataLayer\obj\Debug\net6.0\DataLayer.genruntimeconfig.cache
